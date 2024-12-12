@@ -13,8 +13,8 @@
 | Trường Đại học Công nghệ Thành phố Hồ Chí Minh | Custom Node List (plugin) | https://github.com/pot030321/Custom_Node_List |
 | Trường Đại học Mở Thành phố Hồ Chí Minh | rebuild-zone | https://github.com/anhtuan284/rebuild-zone |
 | Trường Đại học Mở Thành phố Hồ Chí Minh | PMNM DisasterAndCharityApp | https://github.com/HPhat03/PMNM_DisasterAndCharityApp |
-| Trường Đại học Cần Thơ | OpenHeart | CTUbase/OpenHeart |
-| Trường Đại học Cần Thơ | windmill-plugins | CTUbase/windmill-plugins |
+| Trường Đại học Cần Thơ | OpenHeart | https://github.com/CTUbase/OpenHeart |
+| Trường Đại học Cần Thơ | windmill-plugins | https://github.com/CTUbase/windmill-plugins |
 | Trường Đại học Công nghệ Thông tin & Truyền thông Việt Hàn - Đại học Đà Nẵng | vku-open-source | https://github.com/vku-open-source |
 | Trường Đại học Quản lý và Công nghệ Thành phố Hồ Chí Minh | umtnewmountain | https://github.com/tannguyen1129/umtnewmountain.git |
 | Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh | UTE-SafeYou | https://github.com/UTE-SafeYou |
